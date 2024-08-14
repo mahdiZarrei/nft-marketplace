@@ -1,5 +1,7 @@
 # NFT Marketplace
 
+![marketplace image](./pic/marketplace.jpg)
+
 This project is an NFT (Non-Fungible Token) Marketplace built using Solidity and deployed on the Ethereum blockchain. The marketplace allows users to create, buy, and sell unique digital assets in the form of NFTs. Each NFT represents ownership of a specific item or piece of content, and this ownership is transparently recorded on the blockchain.
 
 ## Features
@@ -11,6 +13,7 @@ This project is an NFT (Non-Fungible Token) Marketplace built using Solidity and
 ## Installation and Setup
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/username/nft-marketplace.git
    cd nft-marketplace
