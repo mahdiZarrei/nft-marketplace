@@ -15,7 +15,7 @@ This project is an NFT (Non-Fungible Token) Marketplace built using Solidity and
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/username/nft-marketplace.git
+   git clone https://github.com/mahdiZarrei/nft-marketplace.git
    cd nft-marketplace
    ```
 
